@@ -4,5 +4,5 @@ guess = int (input ("Guess the number: "))
 if guess == secret:
     print ("Good job!")
 else:
-    print ('Sorry. Try again!')
+    print ("Sorry. Try again!")
 
